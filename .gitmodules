@@ -1,0 +1,3 @@
+[submodule "content/decap-cms"]
+	path = content/decap-cms
+	url = https://github.com/decaporg/decap-cms.git
